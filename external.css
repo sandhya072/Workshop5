@@ -1,0 +1,41 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+
+}   
+    h1{
+    background-color: beige;
+    font-size: 30px;
+    color:cornflowerblue;
+    font-family: 'Fasthand', cursive;
+} 
+#p1{
+    background-color: beige;
+    font-size: 30px;
+    color: chocolate;
+    font-style: italic;
+}
+#p2{
+    background-color: blueviolet;
+    font-size: 30px;
+    color:darkgreen;
+    font-style: italic;
+}
+#p3{
+    background-color: brown;
+    font-size: 30px;
+    color:darkgreen;
+    font-style: italic;
+}
+#p3:hover{
+    background-color: hotpink;
+    color: floralwhite;
+}
+img{
+    width: 700px;
+    height: 500px;
+}
+
+img[alt]{
+    color: gold;
+}
+    
